@@ -14,6 +14,7 @@ public class MemoryGame extends JFrame
       super("Memory Game");
       contents=getContentPane();
       contents.setLayout(new BorderLayout());
+      JButton Start = new JButton("Start");
       
    }
 
